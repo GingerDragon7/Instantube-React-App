@@ -15,4 +15,4 @@ npm start
 ```
 Now you can access the website at http://localhost:8080
 
-*If it does not work, send an email at shubham.bhadani07@gmail.com*
+*If it does not work, send an email at sunnybhadani898@gmail.com*
